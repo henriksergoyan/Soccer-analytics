@@ -1,6 +1,6 @@
 # Soccer-analytics
 
-This is final project of the course Business Analytics. The project includes:
+This is final project of the course Business Analytics. In the following notebook:
 
 1. Data is cleaned
 2. Home matches and away matches are separated into groups
